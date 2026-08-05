@@ -8,7 +8,8 @@
 |---|---|---|---|
 | 1 | Envision | [01-envision.md](01-envision.md) | Marketing, Sales, Presales |
 | 2 | Plan | [02-plan.md](02-plan.md) | Project Management, Delivery |
-| 3 | *(to be provided)* | — | — |
+| 3 | Deliver | [03-deliver.md](03-deliver.md) | Delivery (CXC), COO |
+| 4 | *(to be provided)* | — | — |
 
 *Stages are being documented as content is provided. This index grows with each phase.*
 
