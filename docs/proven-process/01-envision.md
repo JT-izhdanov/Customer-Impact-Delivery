@@ -22,12 +22,14 @@ Executive leadership + change champions guide the stage; full RASIC chart to com
 
 ## Sub-stages (in order)
 
-1. [Go-To-Market](https://journeyteam.sharepoint.com/sites/ProjectDelivery/SitePages/Go-To-Market.aspx?source=SiteSettings)
-2. [Lead Outreach](https://journeyteam.sharepoint.com/sites/ProjectDelivery/SitePages/Lead-Outreach.aspx)
-3. [Strategic Alignment](https://journeyteam.sharepoint.com/sites/ProjectDelivery/SitePages/Strategic-Alignment.aspx)
-4. [Strategy Session](https://journeyteam.sharepoint.com/sites/ProjectDelivery/SitePages/Strategy-Session.aspx)
-5. [Solution Meeting](https://journeyteam.sharepoint.com/sites/ProjectDelivery/SitePages/Solution-Meeting.aspx)
-6. [EOW Sent](https://journeyteam.sharepoint.com/sites/ProjectDelivery/SitePages/EOW-Sent.aspx)
+Detailed local docs (with Customer Impact integration points) and original SharePoint sources:
+
+1. [Go-To-Market](envision/01-go-to-market.md) · [SharePoint](https://journeyteam.sharepoint.com/sites/ProjectDelivery/SitePages/Go-To-Market.aspx?source=SiteSettings)
+2. [Lead Outreach](envision/02-lead-outreach.md) · [SharePoint](https://journeyteam.sharepoint.com/sites/ProjectDelivery/SitePages/Lead-Outreach.aspx)
+3. [Strategic Alignment](envision/03-strategic-alignment.md) · [SharePoint](https://journeyteam.sharepoint.com/sites/ProjectDelivery/SitePages/Strategic-Alignment.aspx)
+4. [Strategy Session](envision/04-strategy-session.md) · [SharePoint](https://journeyteam.sharepoint.com/sites/ProjectDelivery/SitePages/Strategy-Session.aspx)
+5. [Solution Meeting](envision/05-solution-meeting.md) · [SharePoint](https://journeyteam.sharepoint.com/sites/ProjectDelivery/SitePages/Solution-Meeting.aspx)
+6. [EOW Sent](envision/06-eow-sent.md) · [SharePoint](https://journeyteam.sharepoint.com/sites/ProjectDelivery/SitePages/EOW-Sent.aspx)
 
 ## How success is measured
 
