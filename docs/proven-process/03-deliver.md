@@ -17,11 +17,11 @@ These leaders ensure teams execute with consistency, stay aligned to the flag pl
 
 ## Sub-stages (a structured cycle, in order)
 
-1. [Plan](https://journeyteam.sharepoint.com/sites/ProjectDelivery/SitePages/Plan(1).aspx)
-2. [Review](https://journeyteam.sharepoint.com/sites/ProjectDelivery/SitePages/Review.aspx)
-3. [Execute](https://journeyteam.sharepoint.com/sites/ProjectDelivery/SitePages/Execute.aspx)
+Detailed local docs (with Customer Impact integration points) and original SharePoint sources:
 
-*(Local sub-stage docs will be added as content is provided, mirroring `envision/` and `plan/`.)*
+1. [Plan (Internal Planning)](deliver/01-plan.md) · [SharePoint](https://journeyteam.sharepoint.com/sites/ProjectDelivery/SitePages/Plan(1).aspx)
+2. [Customer Review](deliver/02-review.md) · [SharePoint](https://journeyteam.sharepoint.com/sites/ProjectDelivery/SitePages/Review.aspx)
+3. [Execute](deliver/03-execute.md) · [SharePoint](https://journeyteam.sharepoint.com/sites/ProjectDelivery/SitePages/Execute.aspx)
 
 ## How success is measured
 
