@@ -10,6 +10,8 @@
 
 Anchor every significant engagement on a **measurable business outcome** the customer's executives care about, then architect the solution across whatever practices it takes.
 
+**This is not a new process.** The Proven Process already promises outcomes at every stage — Envision sells on "Business Outcomes," the Plan exit gate requires "Customer Impact confirmed," Launch asks "have outcomes been realized?", and Evolve's purpose is "validating impact." **The 2027 plan is the instrumentation of promises the Proven Process already makes** — numbers, owners, and dates for language that already exists. The Proven Process, the three project roles (PM/PL/Developers), and the four-practice structure are constants (doc 11).
+
 - **Sell the outcome** — "close your books in 5 days," not "implement Fabric."
 - **Baseline before we build** — every proposal carries an Impact Hypothesis with a current-state metric and a target.
 - **Deliver in cross-practice pods** — staffed against the outcome, not the practice bench.
@@ -19,7 +21,7 @@ Anchor every significant engagement on a **measurable business outcome** the cus
 
 1. **Outcome Catalog + Plays** — a shared library of business outcomes and 5–6 named cross-practice offerings sellers can actually quote (docs 03–04).
 2. **Sales motion** — a paid Business Outcome Discovery as the standard front door; Impact Hypothesis required on qualified deals above a threshold (doc 05).
-3. **Delivery model** — an Outcome Owner on every multi-practice engagement; value gates alongside deliverable gates (doc 06).
+3. **Delivery model** — outcome stewardship mapped onto the existing PM/PL/account-team duties; impact checkpoints alongside deliverable tracking (doc 06, doc 11).
 4. **Incentives & attribution** — written attribution rules and multi-practice deal credit so collaboration pays better than siloed selling. This is where the merger failed; without this, nothing else holds (doc 07).
 5. **Metrics** — leading indicators (discoveries run, % pipeline multi-practice) reviewed monthly, not just lagging revenue (doc 08).
 
@@ -46,4 +48,4 @@ Anchor every significant engagement on a **measurable business outcome** the cus
 ## Notes
 
 - Targets above are proposed placeholders; baselines must be measured in Q4 2026 before finalizing.
-- This plan does not require reorganizing again. It changes deal flow, not boxes.
+- This plan does not require reorganizing again. It changes deal flow, not boxes — and it changes nothing about the Proven Process or project roles (doc 11).

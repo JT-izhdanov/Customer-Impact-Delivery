@@ -20,6 +20,10 @@ Notes:
 - docs/09 (2027 roadmap) and docs/10 (risks & objections) do not exist yet — a session or the chair should trigger their drafting; add them to the queue once written.
 - A doc with any OBJECTION returns to the queue after its issues are addressed.
 
+## Decisions made by Igor
+
+- **[Aug 2026] The Proven Process and the three project roles are constants.** No new stages, gates, meetings, or roles; no amendments to the PM/PL standard. Recorded in doc 11; applied across all plan and proven-process docs. Consequence: the "Outcome Owner" role sketch is retired — outcome accountability maps onto existing roles (PM/PL during delivery, account team + Customer Advocacy in Evolve).
+
 ## Decisions awaiting Igor
 
 1. **[Session 01 — Rumelt]** Ratify or overrule the proposed crux (causes 1+5: deal shaping + crediting as the pivot) and name which causes consciously stay unfixed through 2027.
@@ -29,9 +33,9 @@ Notes:
 
 ## Open items from sessions
 
-- **[Proven Process mapping]** Update docs/00 (exec summary) and docs/02 (framework) with the structural finding from `docs/proven-process/`: the 2027 plan is the *instrumentation of promises the Proven Process already makes* (Envision's outcome language → Plan's "Customer Impact confirmed" gate → Launch's "outcomes realized?" question → Evolve's "validate impact"). Also reconcile doc 06's VRR with the existing SBR (same meeting, upgraded first 15 minutes) and doc 05's discovery with the Strategy Session.
-- **[Project roles]** The PM/PL operating standard defines delivery ownership (PM) and technical ownership (PL) but no outcome ownership — the plan's Outcome Owner needs a row in the ownership table and escalation matrix, submitted through the PMO's annual review of the standard (see docs/proven-process/roles/).
-- **[Proven Process tensions]** Three metric-design tensions flagged in stage docs: Envision measures volume only (mix metrics unowned); Plan's speed indicators can squeeze out baseline capture; Deliver has no instrument that notices on-time-but-off-outcome. Plus one role tension: Launch's "team disengages" must exempt the Outcome Owner (RASIC line needed).
+- ~~[Proven Process mapping]~~ **DONE (constants sweep, Aug 2026):** docs/00 and 02 carry the instrumentation framing; VRR reconciled with SBR (same meeting, upgraded first 15 minutes); doc 05 discovery mapped to the Strategy Session; doc 11 created as the constants anchor.
+- ~~[Project roles]~~ **RESOLVED by Igor's constants decision:** no amendment to the PM/PL standard; outcome accountability mapped onto existing roles (see docs/proven-process/roles/ and doc 11).
+- **[Proven Process tensions — still open]** Three metric-design tensions flagged in stage docs: Envision measures volume only (mix metrics unowned); Plan's speed indicators can squeeze out baseline capture (fix is the EOW line item); Deliver has no instrument that notices on-time-but-off-outcome (depends on PMO's milestone-definition work). The Launch role tension is resolved: the outcome thread transfers to the account team via existing closure duties — no RASIC exemption needed.
 
 - **[Session 01]** Build/buy/partner tagging of capability gaps (value quantification, insight content, measurement infra) — land it in docs/09 when drafted (deferred from doc 01 review).
 - **[Standing]** docs/09 (2027 roadmap) and docs/10 (risks & objections) still to be drafted, then queued for review.

@@ -60,9 +60,27 @@ Business outcomes almost never respect practice boundaries:
 
 We don't have to force collaboration. We have to force the outcome conversation — collaboration falls out of it.
 
+## How this maps onto the Proven Process (which is not changing — doc 11)
+
+Every artifact and motion above lands inside an existing Proven Process step; nothing here is a parallel lifecycle:
+
+| Customer Impact element | Proven Process home |
+|---|---|
+| Outcome reframe of tech-labeled leads | Envision: Lead Outreach → Strategic Alignment ("Define Business Objectives and Outcomes") |
+| Business Outcome Discovery (paid) | Envision: Strategy Session (is or sells the discovery) |
+| Impact Hypothesis signed | Envision: Solution Meeting agreements → carried in EOW with the Flag Plant |
+| Value Baseline captured | Plan: Discovery (process maps gain numbers); "Customer Impact confirmed" gate criterion |
+| Mid-phase impact check | Deliver: Customer Review retros |
+| Adoption success criteria & telemetry | Deliver exit gate; Launch: Confirm/Deploy/Stabilize |
+| Value Realization Review | Evolve: Validate, delivered through the existing SBR/QBR cadence (first 15 minutes = Impact Scorecard) |
+| Next-highest-impact opportunity → new lead | Evolve exit gate ("New Non-Support Project Lead") → back to Envision |
+
+Outcome stewardship maps onto the existing roles the same way — AE/SAM in Envision, PM+PL through Launch, account team + Customer Advocacy in Evolve (doc 11).
+
 ## What Customer Impact is NOT
 
+- **Not a change to the Proven Process or project roles.** Both are constants (doc 11). No new stages, gates, meetings, or roles — new content flowing through existing structure.
 - **Not outcome-based pricing (yet).** We commit to measuring impact, not to fee-at-risk contracts. Value-linked pricing is a later maturity step (see doc 05).
-- **Not a rebrand of QBRs.** VRRs are contractual cadence tied to a baseline set before delivery started.
+- **Not a rebrand of QBRs.** The VRR rides the existing SBR/QBR cadence — what changes is its evidence: a contractual baseline set before delivery started, presented as the Impact Scorecard.
 - **Not a new practice or team.** It's a shared motion the four practices run together, governed as described in doc 07.
 - **Not for every deal.** Small, genuinely single-stack work (a report pack, a tenant hardening sprint) can stay simple. The threshold (proposed: $100K) keeps overhead proportional.

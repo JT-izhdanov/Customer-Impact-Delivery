@@ -1,10 +1,10 @@
 # 05 — Sales Motion
 
-How deals start, get scoped, and get priced under Customer Impact.
+How deals start, get scoped, and get priced under Customer Impact — running entirely inside Envision's existing sub-stages (doc 11; see `docs/proven-process/01-envision.md` for the sub-stage-by-sub-stage mapping).
 
 ## The front door: Business Outcome Discovery
 
-Replace "free scoping call → SOW for the requested tech" with a standard, mostly-paid discovery motion:
+Deepen the existing Envision motion — Lead Outreach → Strategic Alignment → Strategy Session — into a standard, mostly-paid discovery:
 
 1. **Reframe the lead (free, 1 call).** Use the Outcome Catalog (doc 03) to move from "you asked for X" to "what result is X supposed to produce?" Qualify the executive owner of that result.
 2. **Business Outcome Discovery (paid, 2–4 weeks).** The entry-point assessment from the relevant play (doc 04). Deliverables: Value Baseline, capability gaps, Impact Hypothesis, phased roadmap with the practice mix.

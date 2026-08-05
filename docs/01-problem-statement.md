@@ -82,9 +82,9 @@ Nine causes invite nine workstreams; a strategy needs a pivot point. **Proposed 
 | How we measure | Delivered on time/budget | Realized customer impact |
 | How we pay | Single-practice credit | Written attribution + multi-practice incentive |
 | How practices know each other | They don't (competence-trust gap) | Engineered familiarity: joint deal reviews, co-staffing, internal proof roadshows |
-| What we invest ahead of revenue | Nothing budgeted | Explicit transition line item ("the fish"): Outcome Owner time, measurement infrastructure, comp accelerators |
+| What we invest ahead of revenue | Nothing budgeted | Explicit transition line item ("the fish"): outcome-stewardship time (PM/PL/account), measurement infrastructure, comp accelerators |
 
-**Deliberately unchanged in 2027:** the four-practice structure, practice-level delivery methodologies, and small single-stack work below the deal threshold. A visible not-changing list is part of the strategy.
+**Deliberately unchanged in 2027** (declared constants — doc 11): the **Proven Process** (all five stages, gates, and metrics), the **three project roles** (PM / PL / Project Developers, per the PM/PL operating standard), the four-practice structure, practice-level delivery methodologies, and small single-stack work below the deal threshold. A visible not-changing list is part of the strategy.
 
 ## What this diagnosis forces us to choose (inputs to docs 04–05, 09)
 

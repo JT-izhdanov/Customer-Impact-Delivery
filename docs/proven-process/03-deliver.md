@@ -56,7 +56,7 @@ Before moving from Deliver to Launch:
 Deliver's machinery is delivery-health-focused (rightly so); the plan adds a thin impact thread through the existing cycle rather than new ceremonies:
 
 - **The Review sub-stage hosts the mid-phase impact check.** Review already inspects budget vs. progress; for impact engagements it adds one standing question — *are we still building what moves the metric?* (doc 06). The user-story-to-metric traceability created in Plan/Discovery makes this a five-minute check, not an analysis.
-- **CER is a leading indicator of impact, not just delivery.** A disengaged customer can't adopt, and unadopted solutions produce zero measurable impact regardless of build quality. Proposed: for impact engagements, low CER triggers the Outcome Owner (not just the PM) — because the thing at risk is the outcome, not the timeline.
+- **CER is a leading indicator of impact, not just delivery.** A disengaged customer can't adopt, and unadopted solutions produce zero measurable impact regardless of build quality. For impact engagements, the PM treats low CER as an *outcome* risk in the RAID log — escalated per the existing path, and flagged to the account team (SAM/AE), because the thing at risk is the outcome, not just the timeline.
 - **Exit-gate items 2 and 4 are where impact survives go-live:**
   - *User Adoption Preparedness* already requires "success criteria" — for impact engagements those criteria are the adoption-telemetry targets from the measurement plan (usage thresholds that historically precede metric movement).
   - *Post Go-Live Alignment* already documents "next steps" — the first VRR date (set at kickoff) and the measurement plan belong on that list, so the handoff hands off the *outcome commitment*, not just the system.

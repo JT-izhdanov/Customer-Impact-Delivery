@@ -1,6 +1,6 @@
 # The JourneyTeam Proven Process
 
-**Status: NOT CHANGING in 2027.** The Proven Process is the operating backbone of JourneyTeam. The Customer Impact plan operates *within* it — its artifacts and motions map into Proven Process stages; they do not create a parallel lifecycle.
+**Status: CONSTANT — not changing in 2027 (doc 11).** The Proven Process — all five stages, sub-stages, exit gates, and metrics — and the three project roles are the fixed operating backbone of JourneyTeam. The Customer Impact plan operates *within* them: new content (artifacts, agenda items, tags, interpretations) flowing through existing structure. No new stages, no new gates, no new meetings, no new roles.
 
 ## Stages
 
@@ -16,7 +16,7 @@ All five stages documented, each with sub-stage docs and Customer Impact integra
 
 ## Project roles
 
-Every project has three roles — **Project Manager** (delivery governance), **Project Lead** (technical direction), and **Project Developers** (pool of technical resources). See [roles/](roles/README.md), including a digest of the PM/PL Partnership operating standard (v1.0, July 2026) and the plan's Outcome Owner observation.
+Every project has exactly three roles — **Project Manager** (delivery governance), **Project Lead** (technical direction), and **Project Developers** (pool of technical resources) — and this is constant. See [roles/](roles/README.md), including a digest of the PM/PL Partnership operating standard (v1.0, July 2026) and how outcome accountability maps onto the existing roles.
 
 *Stages are being documented as content is provided. This index grows with each phase.*
 

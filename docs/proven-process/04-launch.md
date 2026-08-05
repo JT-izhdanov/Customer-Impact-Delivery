@@ -57,6 +57,6 @@ Launch is where the plan's biggest structural finding lives — the exit gate it
 - **Sales Handoff meets the account plan.** The handoff that closes the project should hand the *outcome thread* to whoever owns the account relationship: hypothesis status, first VRR date, and the "next-highest-impact opportunity" slot the VRR will fill (doc 06). This is the LAER Land→Adopt seam (research 03) — the exact point where the diagnosis said "engagements end at go-live" (cause 7).
 - **The Evolve stage exists — that's the structural good news.** The Proven Process doesn't actually end at launch; it has a fifth stage. The plan's post-go-live machinery (VRRs, impact records, managed impact) should live *inside Evolve* rather than beside it — mapping to follow when Evolve content arrives.
 
-### Watch (routed to backlog)
+### Resolved (roles are constant — doc 11)
 
-Criterion 2 (team disengages from daily operations) and the plan's post-go-live measurement cadence must not be read as contradictory: the *project team* disengages; the *Outcome Owner* and the VRR cadence persist into Evolve. If "disengage" is applied to the Outcome Owner too, the model breaks at exactly the point the whole plan exists to fix. Needs an explicit line in the RASIC when it lands.
+Criterion 2 (team disengages from daily operations) is fully compatible with the plan: the project team *does* disengage, exactly as the gate says. The outcome thread doesn't stay with the project — it transfers to the **account team (SAM/AE) and Customer Advocacy**, who already lead Evolve, via the PM's existing closure duties (transition to support/next phase + retro email to Customer Advocacy). The VRR cadence then rides Evolve's existing SBR/QBR machinery. No RASIC exemption, no persistent project role.

@@ -12,6 +12,13 @@ Every JourneyTeam project has three roles:
 
 The PM/PL relationship is governed by a formal operating standard — digested in [pm-pl-partnership.md](pm-pl-partnership.md).
 
-## Customer Impact observation (routed to backlog)
+## Customer Impact and the roles (resolved — roles are constant, doc 11)
 
-The role model has **delivery ownership** (PM) and **technical ownership** (PL) — and no **outcome ownership**. Both roles share a "commitment to customer outcomes," but commitment without accountability is exactly the diagnosis's cause 7 (nobody owns whether the metric moved). The plan's **Outcome Owner** (doc 06) is the third leadership seat for impact engagements — a hat typically worn by a senior member of the pod, distinct in accountability from PM (on-time/on-budget) and PL (works-as-designed). How the Outcome Owner slots into the PM/PL decision framework and escalation matrix is a design decision for the PMO's annual review of the standard.
+**The three roles are not changing, and no role is being added.** The plan's earlier "Outcome Owner" sketch is retired; outcome accountability maps onto existing ownership instead:
+
+- **PM** — custody of the Impact Hypothesis as a governance artifact (baselines, cadence, customer communication: already PM territory), including the closure handoff of the outcome thread.
+- **PL** — metric traceability and adoption telemetry (already technical direction: acceptance criteria, quality, deployment readiness).
+- **Project Developers** — build the metric-tagged stories and measurement instrumentation like any other committed work.
+- **Account team (SAM/AE) + Customer Advocacy** — carry the outcome thread after project close, through Evolve's existing SBR/QBR and retro machinery.
+
+This fits the standard's own default rule: the PM owns delivery decisions, the PL owns technical decisions, and the hypothesis is simply one more governed artifact flowing through that split. See the integration section of [pm-pl-partnership.md](pm-pl-partnership.md).

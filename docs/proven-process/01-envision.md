@@ -63,7 +63,7 @@ The good news: Envision already claims outcome DNA — "driving Business Outcome
 | Solution Meeting | Cross-practice solution review happens *before* this meeting (doc 05 deal rules); solution presented against the Impact Hypothesis |
 | EOW Sent | Impact Hypothesis attached to every EOW above threshold; measurement plan and first VRR date written into the EOW |
 
-**Exit-gate addition proposed by the plan (decision for leadership):** deals above the threshold add one item to the existing three — *Impact Hypothesis attached and signed by the customer's metric-owning executive.* Below threshold, nothing changes.
+**No exit-gate changes (doc 11).** The existing gate already carries what the plan needs: for deals above the threshold, the Impact Hypothesis travels *inside* the A-Grade Flag Plant content that the gate already requires — the hypothesis is how the Flag Plant's outcome statement gets its metric, baseline, and target. Below threshold, nothing changes at all.
 
 ### Tension to resolve (routed to backlog)
 

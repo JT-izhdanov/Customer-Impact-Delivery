@@ -23,10 +23,18 @@ The 2025 practice consolidation (down to four practices) changed the org chart b
 | [08 – Metrics](docs/08-metrics.md) | Leading and lagging indicators for the shift |
 | [09 – 2027 Roadmap](docs/09-2027-roadmap.md) | Phased rollout, pilot-first |
 | [10 – Risks & Objections](docs/10-risks-and-objections.md) | What will push back, and mitigations |
+| [11 – What Is NOT Changing](docs/11-what-is-not-changing.md) | **The constants: Proven Process, project roles, four practices** — and the design rule they impose |
+| [Proven Process](docs/proven-process/README.md) | The five-stage operating backbone (constant), with Customer Impact integration points per sub-stage |
+| [Advisory Board](docs/advisory-board/00-the-board.md) | Ten-seat virtual board; sessions and backlog in the same folder |
+| [Research](docs/research/) | Four sourced research reports underpinning the plan |
 
 ## Core thesis
 
 > Customers don't buy Fabric, Business Central, or Sentinel. They buy a faster close, fewer stockouts, lower risk, and more productive people. When we lead with the outcome, the multi-practice solution follows naturally — and the deal is bigger, stickier, and harder for a single-stack competitor to displace.
+
+## The constants
+
+The **Proven Process** (all five stages, gates, and metrics), the **three project roles** (PM / PL / Project Developers), and the **four-practice structure** are not changing. Customer Impact is the instrumentation of promises the Proven Process already makes — new content flowing through existing structure, never new structure. See [doc 11](docs/11-what-is-not-changing.md).
 
 ## Contributing
 

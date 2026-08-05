@@ -13,7 +13,7 @@ The per-deal argument about splits is the single biggest tax on collaboration. R
 - **Revenue attribution:** delivery revenue books to the practice that delivers each workstream (follow the hours). No debate.
 - **Sales credit:** the selling rep gets **100% quota credit for the full deal value regardless of practice mix** — a seller should never shrink a deal to keep it inside their comfort stack.
 - **Origination credit:** the practice that sourced the opportunity gets a fixed origination percentage recognized in its P&L scorecard (proposed: 10% shadow credit, cost-free — a scorecard metric, not a cash transfer).
-- **Cross-sell from VRRs:** opportunity surfaced in a Value Realization Review credits the Outcome Owner's practice as originator. This pays practices for tending accounts, not just landing them.
+- **Cross-sell from VRRs:** opportunity surfaced in a Value Realization Review (run by the account team through the existing SBR cadence) credits the practice of whoever surfaced it — account team, PM, or PL, all of whom already carry a business-development duty. This pays for tending accounts, not just landing them.
 
 Whatever the final numbers, the rule is: **published before the fiscal year, applied automatically, revisited annually — never negotiated inside a live deal.**
 
@@ -21,7 +21,7 @@ Whatever the final numbers, the rule is: **published before the fiscal year, app
 
 - **Sellers:** add a multi-practice accelerator (proposed: +10–20% commission rate on deals with 2+ practice workstreams above threshold). Fund it from the higher deal sizes the motion produces.
 - **Practice directors:** add a shared metric to each PD's bonus — same number for all four (proposed: % of company bookings that are multi-practice). Shared metrics end practice-vs-practice zero-sum behavior at the top.
-- **Delivery leads / Outcome Owners:** recognition + bonus linkage to documented VRR impact records, not just utilization.
+- **PMs, PLs, and account teams (outcome stewards, doc 11):** recognition + bonus linkage to documented VRR impact records, not just utilization.
 
 ## 3. Deal desk (lightweight)
 
@@ -47,6 +47,7 @@ A function, not a committee — one rotating architect-level person per week plu
 
 ## 6. What we deliberately do NOT do
 
+- **No changes to the Proven Process or project roles.** Both are constants (doc 11); the mechanisms above are sales-side and governance-side, outside the delivery process.
 - **No re-org.** Four practices stay. Customer Impact is a motion they run together, not a fifth box.
 - **No shared-P&L merger.** Practices keep their P&Ls; attribution rules handle the seams. Merging P&Ls would repeat the last mistake — structural change without behavioral mechanics.
 - **No mandatory collaboration quotas on individual deals.** The threshold review + accelerators pull; we don't push single-practice deals into artificial partnerships.

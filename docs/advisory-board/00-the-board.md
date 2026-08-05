@@ -81,7 +81,7 @@ A panel of ten voices (via their published work) we consult as we design the 202
 **Contribution to Customer Impact:**
 - Supplies the **economic argument** for the whole plan: Microsoft's own incentives (MAU, ACR, adoption accelerators) have moved to LAER economics; a partner still monetizing only the "Land" (projects) is fighting the ecosystem's cash flow.
 - VRRs and Impact Reviews are our Adopt/Expand/Renew machinery — they're not account management garnish, they're the revenue model.
-- Warns us honestly: the 2027 pilot has fish-swallowing costs (unbillable Outcome Owner time, measurement infrastructure, comp accelerators). Budget them explicitly or the CFO kills the motion mid-transition.
+- Warns us honestly: the 2027 pilot has fish-swallowing costs (unbillable outcome-stewardship time for PMs/PLs/account teams, measurement infrastructure, comp accelerators). Budget them explicitly or the CFO kills the motion mid-transition.
 
 **They would ask us:**
 1. What does your fish look like — how much margin do you consciously give up in 2027, and where's the line item?
@@ -180,7 +180,7 @@ A panel of ten voices (via their published work) we consult as we design the 202
 
 **Contribution to Customer Impact:**
 - Converts the plan from a framework into **choices**. Where to play: which industries (2–3 per play, per the competitive research), which account tiers (existing multi-practice-potential accounts first), which buyer (the executive who owns the metric), which deal sizes (>$100K threshold). How to win: measured-impact proof + cross-practice breadth that single-stack competitors can't match + published pricing/credit-back transparency the mid-market doesn't offer.
-- Forces capability honesty: value-quantification skill, Challenger-grade insight content, measurement infrastructure, Outcome Owner bench — capability gaps are plan workstreams, not assumptions.
+- Forces capability honesty: value-quantification skill, Challenger-grade insight content, measurement infrastructure, outcome-stewardship capability in the PM/PL/account population — capability gaps are plan workstreams, not assumptions.
 - Management systems = docs 07/08 (attribution, deal desk, capacity view, metric cadence). Lafley/Martin insist these are *part of the strategy*, not implementation detail — which is precisely the lesson of the failed merger.
 
 **They would ask us:**
