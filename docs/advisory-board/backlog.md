@@ -29,6 +29,9 @@ Notes:
 
 ## Open items from sessions
 
+- **[Proven Process mapping]** Update docs/00 (exec summary) and docs/02 (framework) with the structural finding from `docs/proven-process/`: the 2027 plan is the *instrumentation of promises the Proven Process already makes* (Envision's outcome language → Plan's "Customer Impact confirmed" gate → Launch's "outcomes realized?" question → Evolve's "validate impact"). Also reconcile doc 06's VRR with the existing SBR (same meeting, upgraded first 15 minutes) and doc 05's discovery with the Strategy Session.
+- **[Proven Process tensions]** Three metric-design tensions flagged in stage docs: Envision measures volume only (mix metrics unowned); Plan's speed indicators can squeeze out baseline capture; Deliver has no instrument that notices on-time-but-off-outcome. Plus one role tension: Launch's "team disengages" must exempt the Outcome Owner (RASIC line needed).
+
 - **[Session 01]** Build/buy/partner tagging of capability gaps (value quantification, insight content, measurement infra) — land it in docs/09 when drafted (deferred from doc 01 review).
 - **[Standing]** docs/09 (2027 roadmap) and docs/10 (risks & objections) still to be drafted, then queued for review.
 
