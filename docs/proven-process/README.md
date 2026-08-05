@@ -10,7 +10,9 @@
 | 2 | Plan | [02-plan.md](02-plan.md) | Project Management, Delivery |
 | 3 | Deliver | [03-deliver.md](03-deliver.md) | Delivery (CXC), COO |
 | 4 | Launch | [04-launch.md](04-launch.md) | PMO, COO |
-| 5 | Evolve *(content to be provided)* | — | — |
+| 5 | Evolve | [05-evolve.md](05-evolve.md) | Customer Advocacy, Support, Account teams |
+
+All five stages documented, each with sub-stage docs and Customer Impact integration points. The process is a cycle: Evolve's exit gate (a new non-support project lead) feeds Envision.
 
 *Stages are being documented as content is provided. This index grows with each phase.*
 
