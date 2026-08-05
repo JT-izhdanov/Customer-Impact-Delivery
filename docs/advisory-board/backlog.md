@@ -6,7 +6,7 @@ Working state for the board-meeting loop (`/board-meeting`). One focus document 
 
 | # | Focus document | Status | Verdict | Session |
 |---|---|---|---|---|
-| 1 | docs/01-problem-statement.md | queued | — | — |
+| 1 | docs/01-problem-statement.md | reviewed & revised | PASS WITH CONCERNS (6/6 seats; concerns addressed by edits, crux decision pending Igor) | 01 |
 | 2 | docs/02-customer-impact-framework.md | queued | — | — |
 | 3 | docs/04-cross-practice-plays.md | queued | — | — |
 | 4 | docs/05-sales-motion.md | queued | — | — |
@@ -22,11 +22,15 @@ Notes:
 
 ## Decisions awaiting Igor
 
-_None yet — sessions append here. Items are never silently dropped._
+1. **[Session 01 — Rumelt]** Ratify or overrule the proposed crux (causes 1+5: deal shaping + crediting as the pivot) and name which causes consciously stay unfixed through 2027.
+2. **[Session 01 — Lafley/Martin]** The one exclusion decision: which lead type will never again route straight to a practice in 2027 — and which explicitly keeps routing tech-first.
+3. **[Session 01 — Block]** Socialize the diagnosis with sellers and practice leads before finalizing — yes/no, and in what forum.
+4. **[Session 01 — Lah/Maister/Dixon-Adamson]** Supply firm data: % renewable revenue + owner; trusted-advisor relationship map; whether any prepared seller insight content exists today.
 
 ## Open items from sessions
 
-_None yet._
+- **[Session 01]** Build/buy/partner tagging of capability gaps (value quantification, insight content, measurement infra) — land it in docs/09 when drafted (deferred from doc 01 review).
+- **[Standing]** docs/09 (2027 roadmap) and docs/10 (risks & objections) still to be drafted, then queued for review.
 
 ## Stop condition
 
