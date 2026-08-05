@@ -14,6 +14,10 @@
 
 All five stages documented, each with sub-stage docs and Customer Impact integration points. The process is a cycle: Evolve's exit gate (a new non-support project lead) feeds Envision.
 
+## Project roles
+
+Every project has three roles — **Project Manager** (delivery governance), **Project Lead** (technical direction), and **Project Developers** (pool of technical resources). See [roles/](roles/README.md), including a digest of the PM/PL Partnership operating standard (v1.0, July 2026) and the plan's Outcome Owner observation.
+
 *Stages are being documented as content is provided. This index grows with each phase.*
 
 ## Why this is documented in the Customer Impact repo
