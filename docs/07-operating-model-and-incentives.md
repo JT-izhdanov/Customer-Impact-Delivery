@@ -11,7 +11,7 @@
 The per-deal argument about splits is the single biggest tax on collaboration. Remove it by deciding once:
 
 - **Revenue attribution:** delivery revenue books to the practice that delivers each workstream (follow the hours). No debate.
-- **Sales credit:** the selling rep gets **100% quota credit for the full deal value regardless of practice mix** — a seller should never shrink a deal to keep it inside their comfort stack.
+- **Sales credit: already solved — protect it.** Sellers carry practice-neutral quotas today, so a rep already gets full credit regardless of practice mix. Write it down as standing policy so it survives future comp redesigns; it is the single best structural asset the motion has.
 - **Origination credit:** the practice that sourced the opportunity gets a fixed origination percentage recognized in its P&L scorecard (proposed: 10% shadow credit, cost-free — a scorecard metric, not a cash transfer).
 - **Cross-sell from VRRs:** opportunity surfaced in a Value Realization Review (run by the account team through the existing SBR cadence) credits the practice of whoever surfaced it — account team, PM, or PL, all of whom already carry a business-development duty. This pays for tending accounts, not just landing them.
 
@@ -19,7 +19,7 @@ Whatever the final numbers, the rule is: **published before the fiscal year, app
 
 ## 2. Compensation changes (FY27)
 
-- **Sellers:** add a multi-practice accelerator (proposed: +10–20% commission rate on deals with 2+ practice workstreams above threshold). Fund it from the higher deal sizes the motion produces.
+- **Sellers:** quotas are already practice-neutral, so no structural fix is needed — the question is whether to *reward the new behaviors*. Proposed: a modest accelerator on outcome-motion behaviors (paid discovery attached, Impact Hypothesis signed by the metric owner, multi-practice workstreams above the floor), funded from the larger deal sizes the motion produces. Behavior-based, per the research (doc research/02): pay for the inputs in year one because collaboration's payoff lags.
 - **Practice directors:** add a shared metric to each PD's bonus — same number for all four (proposed: % of company bookings that are multi-practice). Shared metrics end practice-vs-practice zero-sum behavior at the top.
 - **PMs, PLs, and account teams (outcome stewards, doc 11):** recognition + bonus linkage to documented VRR impact records, not just utilization.
 

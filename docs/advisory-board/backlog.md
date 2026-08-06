@@ -22,14 +22,16 @@ Notes:
 
 ## Decisions made by Igor
 
+- **[Aug 2026] Firm facts corrected by Igor:** sellers carry NO practice-specific quotas (comp is practice-neutral); we play in SMB/SMC; we generate our own leads (no Microsoft referral dependence). Applied to docs 00, 01, 05, 07 and the Solution Meeting integration. Consequences: the proposed crux reweighted from causes 1+5 to **causes 1+3** (self-generated tech labels + missing insight content — both fully in our control); doc 07's seller-comp fix reframed as "protect the existing strength"; Microsoft co-sell demoted to secondary. Sales-motion roles fleshed out in new doc 12.
 - **[Aug 2026] The Proven Process and the three project roles are constants.** No new stages, gates, meetings, or roles; no amendments to the PM/PL standard. Recorded in doc 11; applied across all plan and proven-process docs. Consequence: the "Outcome Owner" role sketch is retired — outcome accountability maps onto existing roles (PM/PL during delivery, account team + Customer Advocacy in Evolve).
 
 ## Decisions awaiting Igor
 
-1. **[Session 01 — Rumelt]** Ratify or overrule the proposed crux (causes 1+5: deal shaping + crediting as the pivot) and name which causes consciously stay unfixed through 2027.
+1. **[Session 01 — Rumelt; revised Aug 2026]** Ratify or overrule the proposed crux — now **causes 1+3** (self-generated tech-labeled demand + missing seller insight content) after the seller-comp correction — and name which causes consciously stay unfixed through 2027.
 2. **[Session 01 — Lafley/Martin]** The one exclusion decision: which lead type will never again route straight to a practice in 2027 — and which explicitly keeps routing tech-first.
 3. **[Session 01 — Block]** Socialize the diagnosis with sellers and practice leads before finalizing — yes/no, and in what forum.
 4. **[Session 01 — Lah/Maister/Dixon-Adamson]** Supply firm data: % renewable revenue + owner; trusted-advisor relationship map; whether any prepared seller insight content exists today.
+5. **[Doc 12 — sales-motion roles]** Four structural questions: do dedicated SDRs exist; how is presales structured under the VP of Client Solutions; where is the AE→SAM account transfer point; what threshold value fits our SMB/SMC deal-size distribution.
 
 ## Open items from sessions
 

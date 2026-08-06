@@ -4,7 +4,7 @@
 
 - JourneyTeam merged into four practices (Data & AI · Copilot & Dynamics · Security & Compliance/Azure · Business Central ERP) to drive cross-practice collaboration.
 - The merger changed the org chart, not the behavior. We still sell and deliver predominantly single-practice technology projects.
-- Root cause: nothing downstream of the org chart changed — leads arrive tech-labeled, sellers scope what they know, delivery staffs from its own bench, and compensation rewards single-practice deals.
+- Root cause: nothing downstream of the org chart changed — we generate our own leads tech-labeled, sellers lack the insight content to reframe them, delivery staffs from its own bench, and practice P&Ls/utilization reward silos (seller comp is already practice-neutral — a strength).
 
 ## The proposal: Customer Impact
 

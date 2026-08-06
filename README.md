@@ -24,6 +24,7 @@ The 2025 practice consolidation (down to four practices) changed the org chart b
 | [09 – 2027 Roadmap](docs/09-2027-roadmap.md) | Phased rollout, pilot-first |
 | [10 – Risks & Objections](docs/10-risks-and-objections.md) | What will push back, and mitigations |
 | [11 – What Is NOT Changing](docs/11-what-is-not-changing.md) | **The constants: Proven Process, project roles, four practices** — and the design rule they impose |
+| [12 – Sales Motion Roles](docs/12-sales-motion-roles.md) | Who does what in the outcome-led Envision motion (hats on existing roles) |
 | [Proven Process](docs/proven-process/README.md) | The five-stage operating backbone (constant), with Customer Impact integration points per sub-stage |
 | [Advisory Board](docs/advisory-board/00-the-board.md) | Ten-seat virtual board; sessions and backlog in the same folder |
 | [Research](docs/research/) | Four sourced research reports underpinning the plan |

@@ -14,7 +14,7 @@ Why paid: customers who pay for discovery show up with data and executives; free
 
 ## Deal rules (the teeth)
 
-- **Threshold rule:** every proposal >$100K (proposed) requires an attached Impact Hypothesis. No hypothesis, no pricing review sign-off.
+- **Threshold rule:** every proposal above the threshold requires an attached Impact Hypothesis. No hypothesis, no pricing review sign-off. *($100K was the initial proposal; given our SMB/SMC deal sizes, the threshold needs calibration per segment — sales leadership to set it against actual deal-size distribution in Q4 2026.)*
 - **Second-practice review:** every deal above threshold gets a 30-minute cross-practice solution review before proposal. Purpose: catch the outcome-adjacent scope a single-practice seller won't see. This is a deal-desk function, not a committee (see doc 07).
 - **Exec sponsor rule:** an Impact Hypothesis must name the customer executive who owns the metric. If we can't reach that person, the deal is a tech project — price it as one and don't dress it up.
 
@@ -34,11 +34,13 @@ Walk, then run. Committing fees to outcomes we can't control (customer adoption,
 | 2. **Next** | Milestone pricing tied to capability delivery (not business results) | As plays mature |
 | 3. **Later** | Value-linked component (small % bonus/holdback on metric achievement) on select repeat plays with proven baselines | Earliest 2028; only where we control enough variables |
 
-## Alignment with Microsoft
+## Alignment with Microsoft (calibrated for our SMB/SMC reality)
 
-- **MCEM:** Frame our motion in Microsoft's Customer Engagement Methodology stages so co-sell conversations land naturally — our Discovery maps to Inspire & Design, Impact Hypothesis to Empower & Achieve business-case expectations.
-- **Co-sell:** Outcome framing improves co-sell quality — Microsoft sellers carry customer-outcome quotas ("customer adds," consumption) and respond to partners who speak that language.
-- **Funding:** Keep an internal mapping from each play to workload-based partner funding programs; outcome-led doesn't mean leaving Microsoft money on the table (doc 04, design rule 4).
+**Context:** we play in SMB/SMC and generate our own leads — we do not depend on Microsoft referrals, and most of our customers are not Microsoft-managed accounts. That makes co-sell and field-seller motions *secondary*, not central:
+
+- **Own the demand engine (primary).** Because our leads are self-generated, outcome labeling happens at *our* source — campaigns, sequences, and content organized by play and buyer outcome (Go-To-Market integration). This is an advantage referral-dependent partners don't have.
+- **Funding still matters — claim it opportunistically.** CSP incentives, MCI engagements, FastTrack (SMC customers with 150+ eligible licenses), SMB motions like "Copilot in 30," and per-workload deployment accelerators all apply in our segment. Keep the internal play-to-funding mapping (doc 04, rule 4) and modular EOWs so Sales Ops can claim per-workload PoE — but never design the motion around funding.
+- **Co-sell/MCEM when the account qualifies.** For the subset of SMC accounts that are Microsoft-managed (or MACC-holding), frame deals in MCEM stages with a consumption/adoption forecast attached — useful there, not a pipeline strategy for us.
 
 ## Seller enablement (Q1–Q2 2027)
 
